@@ -1,8 +1,11 @@
-BigQuery Web Version 1.0.0 (2021-02-XX)
+BigQuery Web Version 1.0.1 (2021-02-XX)
 ---------------------------
 release/bigquery/web/1.0.1 (web/v1/bigquery/CHANGELOG)
 Add top-level CHANGELOG (#42)
 Add link to try-snowplow (#39)
+Update run_config.sh to comment out warnings when using -po (close #45)
+Fix example command for `run_config.sh` in scripts README (close #34)
+Bigquery: Fix typos in README (close #44)
 
 Snowflake Web Version 1.0.0 (2021-02-11)
 --------------------------
